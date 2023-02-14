@@ -1,0 +1,48 @@
+body {
+    background: #fafaff;
+    margin: 0;
+}
+
+/* 导航条 */
+.topnav {
+    overflow: hidden;
+    background-color: #2a323c;
+}
+
+/* 导航条链接 */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* 链接颜色修改 */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+
+.card{
+    position: fixed;
+    left: 200px;
+    top: 200px;
+
+    /**
+    margin: 30px;
+    padding: 10px;
+    background-color: white;
+    box-shadow:5px 5px 10px 5px #ccc;
+    border-radius: 2%;
+    float: left;
+     */
+}
+
+.original_video{
+    position: fixed;
+    left: 200px;
+    top: 200px;
+}
