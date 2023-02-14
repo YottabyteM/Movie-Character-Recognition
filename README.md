@@ -1,5 +1,11 @@
 # License Plate Recognition
 
+NKU暑期实习实训项目——电影人物识别，最终总评第一名。
+
+## 环境配置
+
+一些基本的三方库，如果电脑性能较差会因为yolo5的问题跑不了。
+
 ## File Structure
 
 ### Movie_Character_Detection
