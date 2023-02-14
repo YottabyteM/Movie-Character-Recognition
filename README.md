@@ -1,4 +1,4 @@
-# License Plate Recognition
+# Movie Character Recognition
 
 NKU暑期实习实训项目——电影人物识别，最终总评第一名。
 
